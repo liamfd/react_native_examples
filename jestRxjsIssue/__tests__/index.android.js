@@ -1,4 +1,5 @@
 import 'react-native';
+import rx from 'rxjs';
 import React from 'react';
 import Index from '../index.android.js';
 
